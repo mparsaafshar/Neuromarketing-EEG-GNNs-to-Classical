@@ -42,16 +42,8 @@ We construct **brain connectivity graphs** from EEG data and apply **Graph Neura
 6. **Evaluation**  
    - Metrics: Accuracy, Recall, Precision and F1-score  
 
+---
 
 ## 📚 References
 - [1] Georgiadis, K., Kalaganis, F.P., Riskos, K. et al. NeuMa - the absolute Neuromarketing dataset en route to an holistic understanding of consumer behaviour. Sci Data 10, 508 (2023). https://doi.org/10.1038/s41597-023-02392-9
 
-
-
-## 
-
-### Installation
-```bash
-git clone https://github.com/username/neuromarketing-eeg-gnn.git
-cd neuromarketing-eeg-gnn
-pip install -r requirements.txt
